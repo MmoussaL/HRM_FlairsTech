@@ -1,14 +1,12 @@
 package BonusTask;
 
 import io.restassured.RestAssured;
-import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.*;
-import static org.hamcrest.Matchers.*;
 
-public class OrangeHRMTest {
+public class RESTAssuredTask {
 
     int id;
     // Base URI for all the APIs

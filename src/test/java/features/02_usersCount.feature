@@ -11,7 +11,6 @@ So that I can know how many users are there in the application
     And Clicks on the login button
     Then User should be navigated to the home page
 
-  @task
   Scenario: count the current records
     Given I am on the home page
     When I Navigate to Admin tab

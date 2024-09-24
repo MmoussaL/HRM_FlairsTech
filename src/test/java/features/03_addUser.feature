@@ -12,7 +12,6 @@ So that he can access the application
     Then User should be navigated to the home page
 
 
-  @task
   Scenario: Add a new user
     Given I am on the home page
     When I Navigate to Admin tab
